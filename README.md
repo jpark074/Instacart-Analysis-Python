@@ -9,7 +9,7 @@ the provided criteria.
 - Project Management: Contains the Project Brief
 - Data: Separated into Original and Prepared Data. These contain the original data frames and data frames that were cleaned and prepared for analysis respectively. NOTE: This folder has not been included
 - Scripts: Contains all the notebooks created for the analysis process
-- Analysis: Contains the visulizations 
+- Analysis: Contains the visualizations 
 - Sent to client: Contains the Final Report
 ## Tools/Skills
 #### Python
