@@ -1,7 +1,7 @@
 # Instacart-Analysis-Python
 A data analysis project using Python to analyze data from Instacart.
 ## Objective
-Perform an initial data and EDA of some of Instacart's data in order
+Perform an initial analysis and EDA of some of Instacart's data in order
 to derive insights and suggest strategies for better segmentation based on
 the provided criteria.
 ## Folders
